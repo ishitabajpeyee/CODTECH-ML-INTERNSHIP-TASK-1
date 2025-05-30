@@ -1,5 +1,6 @@
 # DECISION TREE IMPLEMENTATION
 This repository contains an implementation and visualization of a Decision Tree model using Scikit-learn. The model is designed to classify and predict outcomes on a chosen car dataset.
+
 Features-
 1. Build a Decision Tree classifier using Scikit-learn
 2. Visualize the structure of the decision tree
